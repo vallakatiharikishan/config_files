@@ -6,7 +6,8 @@ accounts:
   message: "Welcome to HK Bank accounts related Prod APIs"
   contactDetails:
     name: "Sai - Product Owner"
-    email: "sai@gmail.com"
+    email: "{cipher}ef2930a8c87c609b827cdcb7332151ad7c3a5846721749b79be44bddaf0b7e3e"
   onCallSupport:
     -(777) 555-1654
+
     -(777) 532-5465
