@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Hk Bank cards related QA APIs "
+  contactDetails:
+    name: "Bhanu - QA Lead"
+    email: "bhanu@gmail.com"
+  onCallSupport:
+    - (785) 545-6565
+    - (853) 546-3467

@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to HK Bank accounts related Prod APIs"
+  contactDetails:
+    name: "Sai - Product Owner"
+    email: "sai@gmail.com"
+  onCallSupport:
+    -(777) 555-1654
+    -(777) 532-5465

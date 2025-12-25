@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to HK Bank accounts related QA APIs"
+  contactDetails:
+    name: "Bhanu - QA Lead"
+    email: "bhanu@gmail.com"
+  onCallSupport:
+    -(666) 555-1432
+    -(666) 532-3345
