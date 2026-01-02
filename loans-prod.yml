@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Hk Bank loans related production  APIs "
+  message: "Welcome to Hk Bank loans related prod  APIs "
   contactDetails:
     name: "Sai - Product Owner"
     email: "sai@gmail.com"
@@ -11,3 +11,4 @@ loans:
     - (723) 656-8709
 
     - (156) 342-0956
+
